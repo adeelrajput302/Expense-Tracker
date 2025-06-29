@@ -25,6 +25,12 @@ body {
 .e-bigger {
     font-size: x-large;
 }
+
+/* For Dashboard*/
+.main-content {
+    margin-left:290px;
+}
+
 /*BreadCrumb*/
 .e-breadcrumb a, .e-breadcrumb a:hover {
     text-decoration: none !important;
@@ -63,6 +69,12 @@ body {
     border: 1px solid #fff;
 }
 
+/*SideBar*/
+#sidebar{
+    background-color:#12161d;
+    border-right:1px dashed rgba(75,82,85,0.24);
+    padding:10px 20px;
+}
 /*Widget*/
 .widget {
     border-radius: 1rem;
